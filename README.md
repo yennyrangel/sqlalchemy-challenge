@@ -1,2 +1,2 @@
 # sqlalchemy-challenge
-This is the challenge of module 10
+This is the challenge of module 1
